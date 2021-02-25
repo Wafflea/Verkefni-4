@@ -2,7 +2,7 @@
 
 
 
-####kóði
+#### kóði
 ```C
 /*
 Simon Says game. Now with sound effects. 
